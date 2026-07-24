@@ -1,2 +1,0 @@
-# najazethner.world
-Homepage
