@@ -1,1 +1,42 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {background-color: rgb(255, 255, 255);}
+h4 {color: rgb(0, 0, 0); font-family:Arial, Helvetica, sans-serif;}
+p {color: rgb(0, 0, 0); font-family:Arial, Helvetica, sans-serif; font-size: small; }
+p1 {color: rgb(0, 0, 0); font-family:Arial, Helvetica, sans-serif; font-size: small; font-style: italic;}
+p3 {color: rgb(0, 0, 0); font-family:Arial, Helvetica, sans-serif; font-size: small; font-weight: bold }
+a {text-decoration: none; color: rgb(0, 0, 0); }
+b {position: fixed; bottom: 30px; right: 30px; padding: 10px;}
+
+</style>
+
+<body><br>
+
+<img src="/img/Boogie/01_Hallen Naja Zethner Boogie_jpg-full_photo by Brian Kure.jpg" style="width: 1000px;">
+<img src="/img/Boogie/02_Hallen Naja Zethner Boogie_jpg-full_photo by Brian Kure.jpg" style="width: 1000px;">
+<img src="/img/Boogie/03_Hallen Naja Zethner Boogie_jpg-full_photo by Brian Kure.jpg" style="width: 1000px;">
+<img src="/img/Boogie/04_Hallen Naja Zethner Boogie_jpg-full_photo by Brian Kure.jpg" style="width: 1000px;">
+<img src="/img/Boogie/05_Hallen Naja Zethner Boogie_jpg-full_photo by Brian Kure.jpg" style="width: 1000px;">
+<img src="/img/Boogie/06_Hallen Naja Zethner Boogie_jpg-full_photo by Brian Kure.jpg" style="width: 1000px;">
+<img src="/img/Boogie/07_Hallen Naja Zethner Boogie_jpg-full_photo by Brian Kure.jpg" style="width: 1000px;">
+
+<p>
+   <p1>Boogie</p1>, 2025
+   <br></br>
+   6 oil paintings (190 x 200 cm)
+   <br></br>
+   Hallen, København, DK
+   <br>
+   Photo: Brian Kure
+</p>
+<br><br></br>
+
+<b>
+<p3><a href="index.html">Home</a></p3>
+</b>
+
+
+</body>
+</html>
 
